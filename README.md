@@ -25,6 +25,7 @@ It includes:
 - code formatting and linting using [eslint](https://eslint.org/docs/latest/),
 - dependencies scanning and updating thanks to [Dependabot](https://dependabot.com),
 - security code analysis using [CodeQL Action](https://docs.github.com/en/github/finding-security-vulnerabilities-and-errors-in-your-code/about-code-scanning),
+- resource relocation for intensive scripts with [Partytown](https://partytown.builder.io/)
 
 ## Usage
 
