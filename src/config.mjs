@@ -8,5 +8,5 @@ export const SITE = {
 	description: 'Astro Template',
 
 	googleAnalyticsId: false, // or "G-XXXXXXXXXX",
-	googleSiteVerificationId: '' // verificationId,
+	googleSiteVerificationId: '', // verificationId,
 };

@@ -11,7 +11,7 @@
     "astro": "astro",
     "format": "prettier -w .",
     "format:check": "prettier --check .",
-    "lint:eslint": "eslint . --ext .js,.ts,.astro",
+    "lint": "eslint . --ext .js,.ts,.astro",
     "subfont": "subfont -ir --no-fallbacks --silent --root dist"
   },
   "devDependencies": {
@@ -46,15 +46,15 @@
     "node": "^14.15.0 || >=16.0.0"
   },
   "browserslist": {
-		"production": [
-			">0.2%",
-			"not dead",
-			"not op_mini all"
-		],
-		"development": [
-			"last 1 chrome version",
-			"last 1 firefox version",
-			"last 1 safari version"
-		]
-	}
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
