@@ -31,6 +31,7 @@ It includes:
 
 1. Click the `Use this template` button (alt. clone or download this repository).
 1. Replace all occurrences of `runtime-machines/astro-template` to `your_org/repo_name` in all files.
+1. Replace all occurrences of `astro-template` to `repo_name` in all files.
 1. Update the following files:
    - [LICENSE](LICENSE) (when defined)
    - [README.md](README.md)
