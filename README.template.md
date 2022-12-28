@@ -1,7 +1,9 @@
 # Title of the projects
 
-[![CI](https://github.com/runtime-machines/rust-template/workflows/CI/badge.svg)](https://github.com/runtime-machines/rust-template/actions)
-[![codecov](https://codecov.io/github/runtime-machines/rust-template/branch/main/graph/badge.svg?token=ROR5OUTHJ5)](https://codecov.io/github/runtime-machines/rust-template)
+[![GitHub issues](https://img.shields.io/github/issues/runtime-machines/astro-template.svg)](https://github.com/runtime-machines/astro-template/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/runtime-machines/astro-template.svg)](https://github.com/runtime-machines/astro-template/commits/master)
+[![Build Status](https://github.com/runtime-machines/astro-template/actions/workflows/main.yml/badge.svg)](https://github.com/runtime-machines/astro-template/actions)
+[![codecov](https://codecov.io/github/runtime-machines/astro-template/branch/master/graph/badge.svg?token=ML6UOZQGV7)](https://codecov.io/github/runtime-machines/astro-template)
 badges to show in the main page
 
 ## Description and scope of the project
